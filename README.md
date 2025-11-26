@@ -33,4 +33,4 @@ A few of my favorite scripts floating in here:
 💡 Learning how the shell actually *thinks* 
 
 ---
-![e18518c6d24257c6fb02e3c95a862d85](https://github.com/user-attachments/assets/799ffcc0-cf38-4478-8f46-4228ec644b00)
+![e18518c6d24257c6fb02e3c95a862d85](https://github.com/user-attachments/assets/799ffcc0-cf38-4478-8f46-4228ec644b00)   
